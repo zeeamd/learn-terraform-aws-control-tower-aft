@@ -14,10 +14,10 @@ configuration.
 - git config core.excludesFile ~/.gitignore
 
 - Use root/Master account creds to run this automation
-- The test run was taken with creds that had access to Master/AFT/Audit/Log account
-- The VPC settings in Master should have internet-accessible subnet set as allow to provision lambda having internet access with NAT
+- The test run was taken with creds that had access to Master/AFT/Audit/Log acc
+- The vpc settings in Master should have internet-accessible subnet set as allow to provision lambda having internet access with nat
 
 - The cli versions used
-Python 3.10.4
-aws-cli/2.7.33
-Terraform v1.2.9
+- Python 3.10.4
+- aws-cli/2.7.33
+- Terraform v1.2.9
