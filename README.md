@@ -17,7 +17,10 @@ configuration.
 - The test run was taken with creds that had access to Master/AFT/Audit/Log acc
 - The vpc settings in Master should have internet-accessible subnet set as allow to provision lambda having internet access with nat
 
-- The cli versions used
+The cli versions used
 - Python 3.10.4
 - aws-cli/2.7.33
 - Terraform v1.2.9
+
+- Under developer tools (AFT acc) -> settings -> connections -> install apps for 4 repos forked from Hashicorp post successful deployment (manual)
+- Add AWSAFTExecution Role to service catalogue portfolio in Master acc post successful deployment (manual)
