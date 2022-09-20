@@ -24,3 +24,4 @@ The cli versions used
 
 - Under developer tools (AFT acc) -> settings -> connections -> install apps for 4 repos forked from Hashicorp post successful deployment (manual)
 - Add AWSAFTExecution Role to service catalogue portfolio in Master acc post successful deployment (manual)
+- If an OU is created manually register it with AWS Control Tower
